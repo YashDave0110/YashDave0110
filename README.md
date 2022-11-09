@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Dave
-- 👀 I’m interested in ... Python codding, R/R Studio Code, Machine Learning, Data Science
+- 👀 I’m interested in ... Python coding, R/R Studio Code, Machine Learning, Data Science
 - 🌱 I’m currently learning ... Comp Science - Python, Data Science - R 
 - 📫 How to reach me ... Insta - @yash_dave.01, LinkedIn - https://www.linkedin.com/in/yashdave01
 
